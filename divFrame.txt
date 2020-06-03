@@ -1,0 +1,1 @@
+<div><span style="font-family:Times New Roman_STYLE_;”><span style="font-size: _SIZE_px;"><strong>_TEXT_</strong></span></span></div>
